@@ -1,0 +1,7 @@
+what is git and github.
+how to make your account on github.
+importance of git.
+how to make a new repository on github.
+how to make a copy of your repository in your system.
+how to push your projet on github.
+learned commands.
