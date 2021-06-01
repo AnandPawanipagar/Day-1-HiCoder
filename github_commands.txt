@@ -1,0 +1,11 @@
+git config --global user.email anandpawanipagar97@gmail.com                         - to set your email
+git config --global user.name AnandPawanipagar                                      - to set username
+git config --global user.name                                                       - to see whether username has been set or not.
+git config --global user.email                                                      - to see whether username has been set or not.
+git init                                                                            - to initialize empty git repository.
+ls -lart                                                                            - to see what is present in your folder.
+git status                                                                          - to see the status of git whether it is untracked, staged, modified, unmodified
+git add -A                                                                          - to add all files of the folder.
+git commit -m "commit name"                                                         -  to commit with name 
+get remote add origin https://address                                               - making remote origin
+git push origin -u origin master - to push into github                              - to push into github
