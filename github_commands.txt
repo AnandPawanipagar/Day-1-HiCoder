@@ -9,3 +9,4 @@ git add -A                                                                      
 git commit -m "commit name"                                                         -  to commit with name 
 get remote add origin https://address                                               - making remote origin
 git push origin -u origin master - to push into github                              - to push into github
+git push origin master                                                              - to push your new commit
