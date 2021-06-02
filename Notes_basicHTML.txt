@@ -1,0 +1,30 @@
+1)html- hypertext markup language
+It is used to create the structure of website.
+
+2)webpage- The page which consists of different formats of content is called as a webpage.
+
+3)Element- It is used to represent the format of the particular content.
+It consist of a starting tag , some content in it, and a closing tag.
+
+4)Attribute- It is used to add additional properties to the elements.
+
+5)Elements and attributes are the two imp components of html.
+
+6)There are two types of elements known as blockline and inline elements.
+
+7)Blockline - comes into the next line and takes the entire width.
+They are represented as <elementName>------</elemtntName>
+
+8)Inline- takes the amount of space it require.
+They are represented by <elementName/>
+
+9) Head of html- It includes given no of element.
+<title>----</title>
+<meta>
+<style>----</style>
+<script>-----</script>
+<link>
+
+10)Body of html- It consits of header, paragraph, section, footer etc.
+All the content of the website is written in the body of html.
+
